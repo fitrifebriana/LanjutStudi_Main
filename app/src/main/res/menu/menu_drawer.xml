@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_campus"
+            android:icon="@drawable/ic_building"
+            android:title="Perguruan Tinggi" />
+        <item
+            android:id="@+id/nav_majors"
+            android:icon="@drawable/ic_school"
+            android:title="Program Studi" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Obrolan" />
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_blog"
+            android:title="Blog" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_star"
+            android:title="Favorit" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profil Saya" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings"
+            android:title="Setelan" />
+    </group>
+
+</menu>

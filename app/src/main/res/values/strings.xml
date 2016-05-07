@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Side Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="if_description">Teknik Informatika yang merupakan salah satu disiplin ilmu pada
+        bidang teknologi informasi, dikembangkan untuk memberikan pengetahuan mengenai pemanfaatan
+        teknologi informasi tersebut guna memenuhi kebutuhan manusia yang semakin beragam dan kompleks.</string>
+    <string name="if_prospek">Programmer, System Analyst</string>
+</resources>

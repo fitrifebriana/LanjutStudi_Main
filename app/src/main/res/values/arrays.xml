@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saintek_majors">
+        <item>Teknik Informatika</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Arsitektur</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Lingkungan</item>
+        <item>Teknik Komputer</item>
+        <item>Teknik Perminyakan</item>
+        <item>Teknik Perkapalan</item>
+        <item>Teknik Metalurgi dan Material</item>
+        <item>Perencanaan Wilayah dan Tata kota</item>
+        <item>Sistem Informasi</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Desain Grafis</item>
+        <item>Desain Interior</item>
+        <item>Biologi</item>
+        <item>Kimia</item>
+        <item>Fisika</item>
+        <item>Farmasi</item>
+        <item>Matematika</item>
+        <item>Statistika</item>
+        <item>Psikologi</item>
+        <item>Geofisika</item>
+        <item>Kedokteran</item>
+        <item>Kedokteren Gigi</item>
+        <item>Ilmu Gizi</item>
+        <item>Teknologi Pangan</item>
+        <item>Agroteknologi</item>
+        <item>Agribisnis</item>
+        <item>Ilmu Keperawatan</item>
+        <item>Ilmu Kesehatan Masyarakat</item>
+        <item>Ilmu Komputer</item>
+        <item>Geologi</item>
+    </string-array>
+
+    <string-array name="soshum_majors">
+        <item>Akuntansi</item>
+        <item>Manajemen</item>
+        <item>Hukum</item>
+        <item>Filsafat</item>
+        <item>Ilmu Administrasi Negara</item>
+        <item>Ilmu Administrasi Bisnis</item>
+        <item>Ilmu Kesejahteraan Sosial</item>
+        <item>Hubungan Internasional</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Ilmu Perpustakaan</item>
+        <item>Ilmu Politik</item>
+        <item>Ilmu Pemerintahan</item>
+        <item>Sejarah</item>
+        <item>Sastra Inggris</item>
+        <item>Sastra Indonesia</item>
+        <item>Sastra Jepang</item>
+        <item>Sastra Arab</item>
+        <item>Sastra Jerman</item>
+        <item>Sastra Perancis</item>
+        <item>Sastra Cina</item>
+        <item>Ekonomi Pembangunan</item>
+        <item>Sosiologi</item>
+        <item>Geografi</item>
+        <item>Seni Rupa</item>
+        <item>Teknologi Pendidikan</item>
+    </string-array>
+
+    <string-array name="fav_majors">
+
+    </string-array>
+</resources>
